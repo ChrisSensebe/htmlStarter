@@ -1,4 +1,5 @@
-// notification utilisateur si navigateur depasé
+// notify user if obsolete browser
+
 function $buo_f(){ 
     var e = document.createElement("script"); 
     e.src = "//browser-update.org/update.min.js"; 
