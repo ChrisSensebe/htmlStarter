@@ -2,5 +2,6 @@
 
 * html template
 * browser update script
-* css grid
+* jquery cdn
+* bootstrap cdn
 * sticky footer
